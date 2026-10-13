@@ -1,0 +1,9 @@
+JEU DES YEUX V2.02 - MELANGE FIXE
+
+Modifications de cette version :
+- progression globale conservée en chiffres et complétée par un pourcentage ;
+- barre de progression ajoutée dans les paramètres ;
+- fermeture des paramètres par une croix en haut à droite ;
+- aucune autre partie du jeu n’a été modifiée.
+
+Ajoute tes images et tes sons dans les dossiers prévus, puis ouvre index.html.
